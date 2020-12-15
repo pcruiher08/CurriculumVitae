@@ -313,15 +313,17 @@ p.content {
     border: 5px solid #9FB1AC;
 }
 
-button {
+button{
     background-color: Transparent;
     background-repeat:no-repeat;
-    cursor:pointer;
+    cursor:zoom-in;
     overflow: hidden;
     outline:none;
     color:#7395ae;
     border: 0px;
 }
+
+
 
 .grid-container {
     display: grid;
