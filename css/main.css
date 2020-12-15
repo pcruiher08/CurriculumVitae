@@ -120,7 +120,7 @@ h1.header {
     font-family: 'Poppins', sans-serif;
     font-weight: 800;
     font-size: 45pt;
-    color: #75334E;
+    color: #7395ae;
     margin: 0px;
     padding: 2%;
 }
@@ -314,7 +314,7 @@ button {
     cursor:pointer;
     overflow: hidden;
     outline:none;
-    color:#75334E;
+    color:#7395ae;
     border: 0px;
 }
 
@@ -382,7 +382,7 @@ button {
 p.gridtext {
     font-family: 'Poppins', sans-serif;
     font-size: 18pt;
-    color: #75334E;
+    color: #7395ae;
     text-align: center;
     padding: 0;
     margin: 0;
