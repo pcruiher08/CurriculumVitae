@@ -377,7 +377,7 @@ button{
 }
 
 .grid-container2 {
-    display: inline-block;
+    display: grid;
     grid-column-gap: 0px;
     grid-template-columns: auto auto;
 }
